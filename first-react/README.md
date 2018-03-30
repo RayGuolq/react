@@ -33,7 +33,7 @@ npm install
 npm start
 ```
 
-现在浏览器打开 [http://localhost:8080](http://localhost:8080)
+现在浏览器打开 [http://localhost:9000](http://localhost:9000)
 你可以看到 "Hello, World!"字样。
 
 用此脚手架，可以直接构建出一个空的react项目，
